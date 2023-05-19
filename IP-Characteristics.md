@@ -7,3 +7,5 @@
 - hierarchical adressing structure
 - best effort delivery
 - no data recovery features
+- 32 bits long
+- dotted decimal
