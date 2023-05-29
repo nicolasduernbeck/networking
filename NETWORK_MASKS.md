@@ -1,4 +1,4 @@
-#Network Mask
+# Network Mask
 
 Class A network that hasn't been subnetted would have the subnetmask:
 - 255.0.0.0
